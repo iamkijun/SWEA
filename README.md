@@ -235,7 +235,6 @@ for i in range(T):
 
         sum = 0
         
-
     print("#%d %d"%(i+1,max))
     sum = 0
     max = 0
