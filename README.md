@@ -1,7 +1,10 @@
 # SWEA
 
+<<<<<<< Updated upstream
 # SWEA
 
+=======
+>>>>>>> Stashed changes
 ## 1959
 ```
 T = int(input())
@@ -143,4 +146,8 @@ for i in range(n):
         print("#%d 1"%(i+1))
     elif a != re:
         print("#%d 0"%(i+1))
+<<<<<<< Updated upstream
 ```
+=======
+```
+>>>>>>> Stashed changes
