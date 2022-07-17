@@ -149,7 +149,6 @@ for i in range(n):
 <<<<<<< Updated upstream
 ```
 =======
-```
 >>>>>>> Stashed changes
 
 ## 2001
