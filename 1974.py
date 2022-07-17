@@ -31,4 +31,4 @@ for t in range(T):
 
         if b
 
-    print(&quot;%d %d&quot;%(t+1,))
+    print("#%d %d"%(t+1,))
